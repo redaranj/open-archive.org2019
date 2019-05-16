@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Behold: Save by OpenArchive's logo!
-description: 
+title: Behold - Save by OpenArchive's logo!
+description:
 ---
 
 <b>New Logo, who dis?</b><br>

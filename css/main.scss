@@ -27,6 +27,10 @@ h2 {font-size: 1.5em !important;}
 .textPurple {color: #3e3b8f !important;}
 .textBurgundy {color: #4d0026 !important;}
 
+.appName {color: #3e3b8f !important; font-weight: bold; text-transform: uppercase; }
+.subMenuItem { padding-left: 1em !important; display: none !important; }
+#menu .subMenuItem { display: block !important; }
+
 // these are examples, please don't use these
 
 .wrapper.style5 {opacity: 0.95 !important; padding-bottom: 3em !important;} // inner page white background
@@ -65,14 +69,14 @@ footer li {display: inline-block !important;}
 
 #menu, #main section {opacity: 0.9 !important;}
 
-// mobile only tweaks 
+// mobile only tweaks
 
 body.is-mobile {
-	
+
 	#banner h2 {font-size: 2em !important;}
-	
+
 	h2 {font-size: 1.3em !important;}
-	
+
 }
 
 
@@ -1591,7 +1595,7 @@ body.is-mobile {
 
 		p {
 			letter-spacing: _size(letter-spacing-alt);
-			
+
 
 			a {
 				color: inherit;
