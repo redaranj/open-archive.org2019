@@ -1,11 +1,9 @@
 <!-- Header -->
 <header id="header" class="alt">
   <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-  <nav id="long" class="alt">
-    <ul>
-        {% include menu-items.html %}
-      </ul>
-  </nav>
+  <form id="search" action="{{ site.baseurl }}/search" method="get">
+    <input type="text" class="search-box" name="query" placeholder="Search">
+  </form>
   <nav id="nav">
     <ul>
       <li class="special">

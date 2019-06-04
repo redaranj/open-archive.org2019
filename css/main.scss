@@ -30,6 +30,14 @@ h2 {font-size: 1.5em !important;}
 .appName {color: #3e3b8f !important; font-weight: bold; text-transform: uppercase; }
 .subMenuItem { padding-left: 1em !important; display: none !important; }
 #menu .subMenuItem { display: block !important; }
+#search { position: absolute; top: 0; right: 135px !important; width: 175px; }
+.search-box { border: 1px solid white !important; font-size: 0.8em !important; height: 2em !important; display: inline-block !important; }
+#search-results { list-style: none !important; }
+#search-results li { padding-top: 20px !important; }
+#search-refine { width: 100%; text-align: center; }
+#search-box { display: inline-block !important; max-width: 300px; border: 0px; }
+#search-button { display: inline-block !important; max-width: 150px; }
+
 
 // these are examples, please don't use these
 
@@ -1474,7 +1482,8 @@ body.is-mobile {
 			}
 		}
 
-		nav#long.alt {display: none;}
+		nav#long {display: none;}
+    nav#nav {display: block !important;}
 
 		nav {
 			height: inherit;
