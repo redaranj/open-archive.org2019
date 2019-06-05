@@ -26,8 +26,9 @@ h2 {font-size: 1.5em !important;}
 .textTeal {color: #00B4A6 !important;}
 .textPurple {color: #3e3b8f !important;}
 .textBurgundy {color: #4d0026 !important;}
+.textWhite {color: #ffffff !important;}
 
-.appName {font-weight: bold; font-style: italic; }
+.appName {font-weight: bold; font-style: italic; color: #00B4A6 !important; }
 .subMenuItem { padding-left: 1em !important; display: none !important; }
 #menu .subMenuItem { display: block !important; }
 #search { position: absolute; top: 0; right: 135px !important; width: 175px; }
@@ -37,8 +38,21 @@ h2 {font-size: 1.5em !important;}
 #search-refine { width: 100%; text-align: center; }
 #search-box { display: inline-block !important; max-width: 300px; border: 0px; }
 #search-button { display: inline-block !important; max-width: 150px; }
-.download-button { background-color: #4d0026 !important; }
+a.download-button {
+  background-color: #7f3359 !important;
+  box-shadow: none;
+  &:hover {
+    background-color: #4d0026 !important;
+  }
+}
 
+h2 { color: #00B4A6 !important;}
+h3 { color: #00B4A6 !important;}
+.heading h3 { color: #000000 !important; }
+.content ol {  margin-bottom: 0em; list-style-type: decimal; }
+.content ol ol { list-style-type: lower-alpha; }
+.content li { margin-top: 1em; }
+.content ol ol li { margin-top: 0em; }
 // these are examples, please don't use these
 
 .wrapper.style5 {opacity: 0.95 !important; padding-bottom: 3em !important;} // inner page white background
