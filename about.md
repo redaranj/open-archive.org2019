@@ -30,18 +30,18 @@ permalink: /about/
  <p><i>Founder and Director</i></p>
  <p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
  <br>
-<p><b>Nathan Freitas</b>
-   <p>Lead Developer</p>
+<p><b>Nathan Freitas</b></p>
+<p><i>Lead Developer</i></p>
   <p>Nathan is the Executive Director of Guardian Project and a Research Fellow at the Berkman Klein Center.</p>
   <br>
 <p><b>Mathana Stender</b></p>
-<p>Community Manager</p>
+<p><i>Community Manager</i></p>
 <p>Mathana is a Berlin-based tech ethicist, rights advocate and storyteller who investigates the impact of emerging technologies on individuals, communities and culture. Mathana is a member of IEEE working groups that create technical standards and best practises around algorithmic bias and virtual reality, and contributes technical expertise to international disarmament initiatives. They are a Fellow at the Centre for Internet and Human Rights (attached to the European University Viadrina), and hold degrees from the University of Texas at Dallas and the Chinese University of Hong Kong.</p>
 <br>
 <p><b>Collin Sullivan</p>
-  <p> Digital Security Trainer and Outreach Manager</p>
+<p><i>Digital Security Trainer and Outreach Manager</i></p>
   
-</p>
+
 <br>
 <h2>Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
