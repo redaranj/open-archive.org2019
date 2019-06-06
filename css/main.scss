@@ -46,9 +46,10 @@ a.download-button {
   }
 }
 
-h2 { color: #00B4A6 !important;}
+h2 { color: #00B4A6 !important; letter-spacing: 0.05em !important; }
 h3 { color: #00B4A6 !important;}
-.heading h3 { color: #000000 !important; }
+.heading h2 { color: #000000 !important; text-transform: none !important; }
+.content h4 { color: #00B4A6 !important; }
 .content ol {  margin-bottom: 0em; list-style-type: decimal; }
 .content ol ol { list-style-type: lower-alpha; }
 .content li { margin-top: 1em; }

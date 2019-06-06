@@ -9,8 +9,8 @@ permalink: /privacy/
 
 Save and OpenArchive are designed to never collect or store any sensitive information. Media preserved by the Save mobile application cannot be accessed by us or unauthorized third parties because there is no centralized database or server that manages your media and we use Orbot and Tor for private and secure data transmission between the application and the destination server. If you choose to use the Internet Archive or other public servers as a destination, the information you share with them such as your email address, media, metadata, etc. will be public. Our Terms of Service and Privacy Policy are available below.
 
-[Terms of Service](#terms-of-service)<br>
-[Privacy Policy](#privacy-policy)
+[Terms of Service](./privacy/#terms-of-service)<br>
+[Privacy Policy](./privacy/#privacy-policy)
 
 ## Terms of Service
 
