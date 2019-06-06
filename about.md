@@ -26,11 +26,15 @@ permalink: /about/
 <p>It is currently available for android on <a href="http://bit.ly/29ewnaD">Google Play</a> and <a href="http://bit.ly/29jDPDo">GitHub</a>. Our lightweight mobile app. (under 6mb) addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
 <br>
 <h2>Our Team</h2>
-<p><b>Natalie Cadranel</b></p>
- <p><i>Founder and Director</i></p>
- <p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<p><b>Natalie Cadranel</b>
+<br>
+  <i>Founder and Director</i>
+ </br>
  <br>
-<p><b>Nathan Freitas</b></p>
+Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.
+ </br>
+ <br>
+<b>Nathan Freitas</b>
 <p><i>Lead Developer</i></p>
   <p>Nathan is the Executive Director of Guardian Project and a Research Fellow at the Berkman Klein Center.</p>
   <br>
