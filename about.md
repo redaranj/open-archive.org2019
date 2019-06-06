@@ -29,24 +29,28 @@ permalink: /about/
 <p><b>Natalie Cadranel</b>
 <br>
   <i>Founder and Director</i>
- </br>
  <br>
-Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.
- </br>
- <br>
-<b>Nathan Freitas</b>
-<p><i>Lead Developer</i></p>
-  <p>Nathan is the Executive Director of Guardian Project and a Research Fellow at the Berkman Klein Center.</p>
+<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<br>
+  <p>
+    <b>Nathan Freitas</b>
   <br>
-<p><b>Mathana Stender</b></p>
-<p><i>Community Manager</i></p>
+  <i>Lead Developer</i>
+  <p>Nathan is the Executive Director of Guardian Project and a Research Fellow at the Berkman Klein Center.</p>
+  </p>
+  <br>
+<p><b>Mathana Stender</b>
+<br>
+  <i>Community Manager</i>
+  <br>
 <p>Mathana is a Berlin-based tech ethicist, rights advocate and storyteller who investigates the impact of emerging technologies on individuals, communities and culture. Mathana is a member of IEEE working groups that create technical standards and best practises around algorithmic bias and virtual reality, and contributes technical expertise to international disarmament initiatives. They are a Fellow at the Centre for Internet and Human Rights (attached to the European University Viadrina), and hold degrees from the University of Texas at Dallas and the Chinese University of Hong Kong.</p>
 <br>
-<p><b>Collin Sullivan</p>
-<p><i>Digital Security Trainer and Outreach Manager</i></p>
+<p><b>Collin Sullivan</b>
+<br>
+  <i>Digital Security Trainer and Outreach Manager</i>
   
 
-<br>
+</p>
 <h2>Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
 <br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
