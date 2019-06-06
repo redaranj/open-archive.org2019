@@ -5,7 +5,7 @@ description:
 permalink: /about/
 ---
 
-<h2>Our Work</h2>
+<h2 style="text-align: center;">Our Work</h2>
 <h4 class="textTeal">Mission</h4>
 <p>OpenArchive is dedicated to preserving, amplifying, and securely routing mobile media to user-created collections in accessible public and private archives, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
 <p>Created by and for citizen journalists and human rights defenders, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and long-term preservation of at-risk community media.</p>
@@ -25,7 +25,7 @@ permalink: /about/
 <p><span class="appName">Save</span> by OpenArchive is a free, open source mobile archiving application for documentarians and human rights defenders that securely sends mobile media to the <a href="https://archive.org/">Internet Archive</a>, other online destinations using Orbot/Tor. By uniting the work of the <a href="http://guardianproject.info/">Guardian Project</a>, <a href="https://creativecommons.org/">Creative Commons</a>, and distributed, secure servers, it offers at-risk groups more agency over their historical record by affording them secure transit, media authentication, pseudonymity, licensing controls, and the ability to choose where and how the media will be stored for long-term access and reuse. In addition to this, those with limited internet access, can share media between devices with our “nearby” feature via bluetooth, so there can be multiple copies of the media across devices.</p>
 <p>It is currently available for android on <a href="http://bit.ly/29ewnaD">Google Play</a> and <a href="http://bit.ly/29jDPDo">GitHub</a>. Our lightweight mobile app. (under 6mb) addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
 <br>
-<h2>Our Team</h2>
+<h2 style="text-align: center;">Our Team</h2>
 <p><b>Natalie Cadranel</b>
 <br>
   <i>Founder and Director</i>
@@ -48,7 +48,7 @@ permalink: /about/
 <p><b>Collin Sullivan</b>
 <br>
   <i>Digital Security Trainer and Outreach Manager</i>
-  
+
 
 </p>
 <h2>Our Support</h2>

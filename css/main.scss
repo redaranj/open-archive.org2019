@@ -32,6 +32,8 @@ h2 {font-size: 1.5em !important;}
 .subMenuItem { padding-left: 1em !important; display: none !important; }
 #menu .subMenuItem { display: block !important; }
 #search { position: absolute; top: 0; right: 135px !important; width: 175px; }
+.is-mobile #search { position: absolute; top: 0; right: 55px !important; width: 125px; }
+.is-mobile .menuToggle span { display: none !important; }
 .search-box { border: 1px solid white !important; font-size: 0.8em !important; height: 2em !important; display: inline-block !important; }
 #search-results { list-style: none !important; }
 #search-results li { padding-top: 20px !important; }
@@ -50,6 +52,7 @@ h2 { color: #00B4A6 !important; letter-spacing: 0.05em !important; }
 h3 { color: #00B4A6 !important;}
 .heading h2 { color: #000000 !important; text-transform: none !important; }
 .content h4 { color: #00B4A6 !important; }
+.content h5 { color: #00B4A6 !important; text-transform: none !important; font-size: 1em; }
 .content ol {  margin-bottom: 0em; list-style-type: decimal; }
 .content ol ol { list-style-type: lower-alpha; }
 .content li { margin-top: 1em; }
