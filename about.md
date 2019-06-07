@@ -30,7 +30,7 @@ permalink: /about/
 <br>
   <i>Founder and Director</i>
  <br>
-<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a Digital Civil Society Fellow at Stanford and consults with various Human Rights organizations. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various Human Rights organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
 <br>
   <p>
     <b>Nathan Freitas</b>
